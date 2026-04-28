@@ -47,7 +47,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** vazquezadrian909@gmail.com
+**Email:** [vazquezadrian909@gmail.com](mailto:vazquezadrian909@gmail.com)  
 **App:** AutiBuddy  
 **Developer:** Adrian Vazquez
 
